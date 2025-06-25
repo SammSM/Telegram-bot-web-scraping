@@ -15,10 +15,24 @@ The bot uses **web scraping** to gather real-time vehicle data and returns it di
 
 ---
 
-## 🧰 Requirements
+## 🛠️ Setup Guide
 
-- Add `chromedriver` or other compatible WebDriver
-- Add Telegram bot token from **@BotFather** in auto_bot.py "TOKEN = your_token"
-- Install dependencies:
-  ```bash
-  pip install -r requirements.txt
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+2. Create a Virtual Environment
+
+On Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+On macOS / Linux:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
