@@ -30,7 +30,7 @@ cd Telegram-bot-web-scraping
 
 ## 4. Create a virtual environment and activate it
 
-## Create a virtual environment
+### Create a virtual environment
 ### On Windows:
 ```bash
 python -m venv venv
@@ -39,7 +39,7 @@ On macOS / Linux:
 ```bash
 python3 -m venv venv
 ```
-## 5. Activate the virtual environment
+### Activate the virtual environment
 ### On Windows:
 ```bash
 venv\Scripts\activate
@@ -49,7 +49,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-## 6. Install PIP package manager for Python
+## 5. Install PIP package manager for Python
 ```bash
 py -m pip install --upgrade pip
 ```
@@ -58,11 +58,11 @@ py -m pip install --upgrade pip
 python -m pip install --upgrade pip
 ```
 
-## 7. Install requirements
+## 6. Install requirements
 ```bash
 pip install -r requirements.txt
 ```
-## 8. Run auto_bot.py
+## 7. Run auto_bot.py
 ```bash
 py auto_bot.py
 ```
