@@ -17,22 +17,33 @@ The bot uses **web scraping** to gather real-time vehicle data and returns it di
 
 ## 🛠️ Setup Guide
 
-### 1. Clone the Repository
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/SammSM/Telegram-bot-web-scraping.git
 ```
 
-2. Create a Virtual Environment
+```bash
+cd Telegram-bot-web-scraping
+```
 
-On Windows:
+### 2. Create a virtual environment and activate it
+
+## Create a virtual environment
+# On Windows:
 ```bash
 python -m venv venv
-venv\Scripts\activate
 ```
 On macOS / Linux:
 ```bash
 python3 -m venv venv
+```
+## Activate the virtual environment
+# On Windows:
+```bash
+venv\Scripts\activate
+```
+# On macOS / Linux:
+```bash
 source venv/bin/activate
 ```
