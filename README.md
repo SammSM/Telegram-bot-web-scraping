@@ -47,12 +47,14 @@ venv\Scripts\activate
 ```bash
 source venv/bin/activate
 ```
-## 5. Install requirements
+
+## 5. Add webdriver in folder with files
+
+## 6. Install requirements
 ```bash
 pip install -r requirements.txt
 ```
-## 5. Add webdriver in folder with files
-## 6. Run auto_bot.py
+## 7. Run auto_bot.py
 ```bash
 py auto_bot.py
 ```
