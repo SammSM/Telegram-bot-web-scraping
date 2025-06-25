@@ -31,7 +31,7 @@ cd Telegram-bot-web-scraping
 ## 4. Create a virtual environment and activate it
 
 - ### Create a virtual environment
-### On Windows:
+On Windows:
 ```bash
 python -m venv venv
 ```
