@@ -1,8 +1,11 @@
 from telebot import TeleBot, types
 import json
 import parser
-
+import os
 import botparser
+
+for folder in ['car', 'moto', 'bus', 'truck']:
+    os.makedirs(folder, exist_ok=True)
 
 TOKEN = 
 bot = TeleBot(TOKEN)
