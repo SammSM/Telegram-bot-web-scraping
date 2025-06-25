@@ -40,11 +40,11 @@ On macOS / Linux:
 python3 -m venv venv
 ```
 - ### Activate the virtual environment
-### On Windows:
+On Windows:
 ```bash
 venv\Scripts\activate
 ```
-### On macOS / Linux:
+On macOS / Linux:
 ```bash
 source venv/bin/activate
 ```
@@ -53,7 +53,7 @@ source venv/bin/activate
 ```bash
 py -m pip install --upgrade pip
 ```
-### !If py doesn't work try python instead
+### Or
 ```bash
 python -m pip install --upgrade pip
 ```
