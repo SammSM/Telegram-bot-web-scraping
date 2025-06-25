@@ -26,8 +26,9 @@ git clone https://github.com/SammSM/Telegram-bot-web-scraping.git
 ```bash
 cd Telegram-bot-web-scraping
 ```
+## 3. Add webdriver in folder with files
 
-## 3. Create a virtual environment and activate it
+## 4. Create a virtual environment and activate it
 
 ## Create a virtual environment
 ### On Windows:
@@ -38,7 +39,7 @@ On macOS / Linux:
 ```bash
 python3 -m venv venv
 ```
-## 4. Activate the virtual environment
+## 5. Activate the virtual environment
 ### On Windows:
 ```bash
 venv\Scripts\activate
@@ -48,13 +49,20 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-## 5. Add webdriver in folder with files
+## 6. Install PIP package manager for Python
+```bash
+py -m pip install --upgrade pip
+```
+### !If py doesn't work try python instead
+```bash
+python -m pip install --upgrade pip
+```
 
-## 6. Install requirements
+## 7. Install requirements
 ```bash
 pip install -r requirements.txt
 ```
-## 7. Run auto_bot.py
+## 8. Run auto_bot.py
 ```bash
 py auto_bot.py
 ```
