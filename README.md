@@ -62,7 +62,12 @@ python -m pip install --upgrade pip
 ```bash
 pip install -r requirements.txt
 ```
-## 7. Run auto_bot.py
+
+## 7. Get token from BotFather in Telegram.
+- Enter /start and follow the instruction
+- Paste the token in auto_bot.py
+
+## 8. Run auto_bot.py
 ```bash
 py auto_bot.py
 ```
