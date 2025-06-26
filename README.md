@@ -64,10 +64,11 @@ pip install -r requirements.txt
 ```
 
 ## 7. Get token from BotFather in Telegram.
-- Enter /start and follow the instruction
-- Paste the token in auto_bot.py
+- Enter /start in BotFather and follow the instruction
+- Paste the generated token in auto_bot.py
 
 ## 8. Run auto_bot.py
 ```bash
 py auto_bot.py
 ```
+Open the bot and enter /start
