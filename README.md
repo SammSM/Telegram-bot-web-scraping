@@ -27,7 +27,7 @@ git clone https://github.com/SammSM/Telegram-bot-web-scraping.git
 cd Telegram-bot-web-scraping
 ```
 ## 3. Add webdriver in folder with files
-
+  ![alt text](https://github.com/SammSM/Telegram-bot-web-scraping/blob/main/chromedriver.JPG?raw=true)
 ## 4. Create a virtual environment and activate it
 
 - ### Create a virtual environment
@@ -65,7 +65,10 @@ pip install -r requirements.txt
 
 ## 7. Get token from BotFather in Telegram.
 - Enter /start in BotFather and follow the instruction
+  ![alt text]([http://url/to/img.png](https://github.com/SammSM/Telegram-bot-web-scraping/blob/main/bot.JPG?raw=true))
+  ![alt text]([[http://url/to/img.png](https://github.com/SammSM/Telegram-bot-web-scraping/blob/main/bot.JPG?raw=true)](https://github.com/SammSM/Telegram-bot-web-scraping/blob/main/bot2.JPG?raw=true))
 - Paste the generated token in auto_bot.py
+  ![alt text]([http://url/to/img.png]([https://github.com/SammSM/Telegram-bot-web-scraping/blob/main/bot2.JPG?raw=true](https://github.com/SammSM/Telegram-bot-web-scraping/blob/main/token.JPG?raw=true))
 
 ## 8. Run auto_bot.py
 ```bash
